@@ -29,6 +29,8 @@
       <style name="CordovaWindowBackgroundTheme" parent="Theme.AppCompat.Light.NoActionBar">
   				<item name="android:windowBackground">@color/cordova_window_background</item>
 	                        <item name="android:navigationBarColor">@color/cordova_window_background</item>
+	      <item name="android:statusBarColor">@color/cordova_window_background</item>
+	      
   			</style>
   		</config-file>
   	</platform>
