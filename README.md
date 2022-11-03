@@ -1,3 +1,14 @@
+This is a fork of the original plugin cordova-plugin-android-window-background
+
+This plugin changes the colour of your statusbar and navigation bar and your activity screen.
+
+To add this plugin to your project, use the gitub URL:
+
+https://github.com/phiasco12/window-color/
+
+
+
+
 # :snowflake: cordova-plugin-android-window-background :art: :lollipop:
 
 [![Latest Stable Version](https://img.shields.io/npm/v/cordova-plugin-android-window-background.svg)](https://www.npmjs.com/package/cordova-plugin-android-window-background) [![Total Downloads](https://img.shields.io/npm/dt/cordova-plugin-android-window-background.svg)](https://npm-stat.com/charts.html?package=cordova-plugin-android-window-background) [![License](https://img.shields.io/github/license/winteragency/cordova-plugin-android-window-background.svg)](https://github.com/winteragency/cordova-plugin-android-window-background) [![Made by WINTER](https://img.shields.io/badge/made%20by-%E2%9D%84%20WINTER-blue.svg)](https://winter.ax)
