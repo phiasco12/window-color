@@ -2,9 +2,11 @@ This is a fork of the original plugin cordova-plugin-android-window-background
 
 This plugin changes the colour of your statusbar and navigation bar and your activity screen.
 
-To add this plugin to your project, use the gitub URL:
+To add this plugin to your project, use the github URL:
 
 https://github.com/phiasco12/window-color/
+
+To use please the original instructions below.
 
 
 
